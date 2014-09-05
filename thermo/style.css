@@ -11,8 +11,10 @@ body {
 a {
   color: #00B7FF;
 }
-
-
+svg{
+  display: block;
+  margin: 0 auto;
+}
 .background {
 fill:transparent;
 }
