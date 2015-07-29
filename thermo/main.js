@@ -56,7 +56,7 @@ svg.selectAll('.foreground').data(lineData)
 }
 
 function init(){
-	Temperature = 72;
+	Temperature = 68;
 	width = 960;
     height = 500;
     progress = 0;
